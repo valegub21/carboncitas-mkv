@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
@@ -149,7 +148,7 @@ joblib.dump(model, "modelo.pkl")
 joblib.dump(encoder, "encoder.pkl")
 
 print("Modelo entrenado correctamente")
-=======
+
 import pandas as pd
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import LabelEncoder
@@ -300,4 +299,4 @@ joblib.dump(model, "modelo.pkl")
 joblib.dump(encoder, "encoder.pkl")
 
 print("Modelo entrenado correctamente")
->>>>>>> 0c665689e8a17414e55146df6c8b93ee4d9aa5c4
+
