@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -500,7 +499,7 @@ Serrano López Kenny Gabriela
 Desarrollado con Python, Streamlit y Machine Learning
 """)
 
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -1002,4 +1001,4 @@ Serrano López Kenny Gabriela
 Desarrollado con Python, Streamlit y Machine Learning
 """)
 
->>>>>>> 0c665689e8a17414e55146df6c8b93ee4d9aa5c4
+
